@@ -1,0 +1,23 @@
+span{
+    color: orange
+}
+.left{
+    width: 50%;
+}
+.right{
+    width: 50%;
+}
+section{
+    display: flex;
+}
+h1,p{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+button{
+    color: white;
+    background-color: orange;
+    padding:10px;
+}

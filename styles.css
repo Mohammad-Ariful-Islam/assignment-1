@@ -12,7 +12,7 @@ span{
 .right{
     width: 50%;
 }
-section{
+#sec{
     display: flex;
 }
 body{
@@ -49,4 +49,9 @@ margin-top: 68px;
 #parame{
     margin-right: 100px;
     margin-bottom: 50px;
+}
+#writting{
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
 }

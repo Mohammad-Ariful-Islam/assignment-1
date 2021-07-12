@@ -1,3 +1,7 @@
+body{
+    margin: 0;
+    padding: 0;
+}
 span{
     color: orange
 }
@@ -14,9 +18,13 @@ section{
 body{
     font-family: 'Poppins', sans-serif;
 }
-h1{
+h1,h2{
     font-size: 50px;
     color: #575757;
+}
+#amh{
+    font-size: 30px;
+    margin-top: 80px;
 }
 a{
     color: white;
@@ -30,4 +38,15 @@ a{
 }
 .no2{
 background-image: url(photo/7.png);
+background-repeat: no-repeat;
+padding-top: 50px;
+margin-top: 68px;
+}
+#person{
+    width: 300px;
+    margin-left: 150px;
+}
+#parame{
+    margin-right: 100px;
+    margin-bottom: 50px;
 }

@@ -55,3 +55,9 @@ margin-top: 68px;
     margin-left: 250px;
     margin-right: 250px;
 }
+#food1{
+    height: 200px;
+}
+.last-food{
+    display:flex
+}

@@ -58,6 +58,14 @@ margin-top: 68px;
 #food1{
     height: 200px;
 }
-.last-food{
-    display:flex
+.food-last,.food-lasst,.last-food{
+    width: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px#575757;
+    padding-left: 10px;
+    padding-right: 50px;
+}
+.dure{
+    display: flex;
 }
